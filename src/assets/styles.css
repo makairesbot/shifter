@@ -1,0 +1,14 @@
+#vue-wrapper {
+    display: flex;
+    justify-content: center;
+	width: 100vw;
+	height: 100vh;
+}
+
+body {
+    background-image: radial-gradient(rgb(61, 61, 61) 60%, rgb(71, 71, 71));
+    color: rgb(206, 206, 206);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
