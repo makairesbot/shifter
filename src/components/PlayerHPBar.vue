@@ -4,7 +4,13 @@
 	</div>
 </template>
 
-<style>
+
+<script setup lang="ts">
+
+</script>
+
+
+<style scoped>
 #player-hp-bar {
 	background-color: rgb(191,49,46);
 	height: 100%;

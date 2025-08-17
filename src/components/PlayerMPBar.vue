@@ -4,7 +4,13 @@
 	</div>
 </template>
 
-<style>
+
+<script setup lang="ts">
+	
+</script>
+
+
+<style scoped>
 #player-mp-bar {
 	background-color: rgb(13,155,189);
 	height: 100%;
